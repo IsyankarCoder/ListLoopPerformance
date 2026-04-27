@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ListLoopBenchmark")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3a322f63cd3a59d1161f463780913c298829b36")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc50cce1419cd1b807f9e255a9a6bc64251f1618")]
 [assembly: System.Reflection.AssemblyProductAttribute("ListLoopBenchmark")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ListLoopBenchmark")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

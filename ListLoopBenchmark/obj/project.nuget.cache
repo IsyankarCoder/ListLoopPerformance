@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "h3U9NQXFjPU=",
+  "dgSpecHash": "LXTfWDoWsRc=",
   "success": true,
   "projectFilePath": "C:\\Repo\\NETCORE\\Konsol\\ListLoopPerformance\\ListLoopBenchmark\\ListLoopBenchmark.csproj",
   "expectedPackageFiles": [
@@ -25,7 +25,11 @@
     "C:\\Users\\Volkan\\.nuget\\packages\\perfolizer\\0.5.3\\perfolizer.0.5.3.nupkg.sha512",
     "C:\\Users\\Volkan\\.nuget\\packages\\system.codedom\\9.0.5\\system.codedom.9.0.5.nupkg.sha512",
     "C:\\Users\\Volkan\\.nuget\\packages\\system.management\\9.0.5\\system.management.9.0.5.nupkg.sha512",
-    "C:\\Users\\Volkan\\.nuget\\packages\\system.reflection.typeextensions\\4.7.0\\system.reflection.typeextensions.4.7.0.nupkg.sha512"
+    "C:\\Users\\Volkan\\.nuget\\packages\\system.reflection.typeextensions\\4.7.0\\system.reflection.typeextensions.4.7.0.nupkg.sha512",
+    "C:\\Users\\Volkan\\.nuget\\packages\\microsoft.netcore.app.ref\\10.0.2\\microsoft.netcore.app.ref.10.0.2.nupkg.sha512",
+    "C:\\Users\\Volkan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\10.0.2\\microsoft.windowsdesktop.app.ref.10.0.2.nupkg.sha512",
+    "C:\\Users\\Volkan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\10.0.2\\microsoft.aspnetcore.app.ref.10.0.2.nupkg.sha512",
+    "C:\\Users\\Volkan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\10.0.2\\microsoft.netcore.app.host.win-x64.10.0.2.nupkg.sha512"
   ],
   "logs": []
 }

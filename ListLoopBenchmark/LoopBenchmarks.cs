@@ -9,8 +9,8 @@ namespace LoopBenchMark;
 public class LoopBenchmarks
 {
 
- 
-     [Params(1_000, 10_000, 1_000_000)]
+
+    [Params(1_000, 10_000, 1_000_000)]
     public int Size { get; set; }
 
     private readonly List<string> _items = new();
